@@ -1,0 +1,5 @@
+com/softdev/system/demo/config/FastjsonConverter.class
+com/softdev/system/demo/config/WebSocketServer.class
+com/softdev/system/demo/controller/DemoController.class
+com/softdev/system/demo/config/WebSocketConfig.class
+com/softdev/system/demo/DemoApplication.class
